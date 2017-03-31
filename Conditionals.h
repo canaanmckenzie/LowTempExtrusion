@@ -336,7 +336,8 @@
 
   /**
    * Temp Sensor defines
-   */
+   * This seems to be the conditional statements concering the temperature
+   
   #if TEMP_SENSOR_0 == -2
     #define HEATER_0_USES_MAX6675
   #elif TEMP_SENSOR_0 == -1
@@ -388,7 +389,7 @@
     #define THERMISTORBED TEMP_SENSOR_BED
     #define BED_USES_THERMISTOR
   #endif
-
+/
   /**
    * ARRAY_BY_EXTRUDERS based on EXTRUDERS
    */
