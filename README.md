@@ -7,3 +7,8 @@ Low Temperature Polymer Extrusion
   - heatsink fan
   - bed
   
+  
+  The unmodified version of this code can be cloned from Marlin:
+  
+  https://github.com/MarlinFirmware/Marlin
+  
